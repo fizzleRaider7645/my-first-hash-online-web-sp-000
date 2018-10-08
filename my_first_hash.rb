@@ -1,4 +1,4 @@
-your_hash = {"bad_pet"=> "cat", "good_pet"=> "dog"}
+your_hash = {}
 
 def my_hash
 end
