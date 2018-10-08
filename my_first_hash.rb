@@ -1,5 +1,6 @@
 
 def my_hash
+  {"bad_pet"=> "cat", "good_pet"=> "dog"}
 end
 
 
