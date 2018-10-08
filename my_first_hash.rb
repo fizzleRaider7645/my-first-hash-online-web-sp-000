@@ -13,7 +13,6 @@ def shipping_manifest
   the_manifest["porcelain vases"] => 2
   the_manifest["oil paintings"] => 3
 
-
 end
 
 def retrieval
