@@ -1,6 +1,7 @@
 your_hash = {}
 
 def my_hash(your_hash)
+  my_hash { |key, value| my_hash[key] = value }
 end
 
 
